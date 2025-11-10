@@ -1,52 +1,32 @@
-# 👋 Hi, I'm Niharika Aryasomayajula  
+# Niharika Aryasomayajula
 
-🎓 I'm a recent Master's graduate in **Data Science and Innovation** from **UTS, Sydney**.  
-💡 I’m passionate about using **data-driven insights** to solve real-world problems and support smart decision-making.  
-💻 I’ve worked with **Python, SQL, scikit-learn, TensorFlow, Tableau**, and other tools to build predictive models and visualizations.  
+I am a recent Master's graduate in **Data Science and Innovation** from UTS, Sydney, seeking opportunities to apply my skills in **Machine Learning, Data Analytics, and Data Visualization**. I enjoy turning complex datasets into actionable insights and contributing to real-world projects.
 
 ---
 
-### 🧩 Skills & Tools
-- **Programming:** Python, R, SQL, Java  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib  
-- **Visualization:** Tableau, Power BI  
-- **Concepts:** Statistical Analysis, EDA, Predictive Modeling, Data Cleaning  
+## Skills & Tools
+- **Programming & Libraries:** Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Concepts:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Predictive Modeling, Statistical Analysis  
 - **Other Tools:** JIRA, Excel, Notion, SAP ABAP, Provenir  
 
 ---
 
-### 💼 Experience
+## Work Experience
 **Policy Analyst Intern — LoanOptions.ai (Feb 2025 - May 2025)**  
-- Reviewed lending policies and implemented decision logic in Provenir.  
-- Supported automation of loan approvals and risk assessments.  
-- Collaborated with cross-functional teams to enhance workflow efficiency.  
+- Implemented decision logic in Provenir to automate loan approvals.  
+- Assisted in improving loan matching processes and collaborated with cross-functional teams.  
 
 **Associate Analyst — Deloitte (Dec 2022 - Jun 2023)**  
-- Trained in SAP ABAP backend development and report generation.  
-- Supported global client documentation using Adobe Forms.  
-- Contributed to backend automation and debugging processes.  
+- Developed backend solutions using SAP ABAP and maintained technical documentation.  
+- Supported report generation, automation, and troubleshooting tasks.  
 
 **Data Analyst Intern — Aeglelink Solutions (Nov 2021 - Mar 2022)**  
-- Assisted in data reporting and analysis using Excel and JIRA.  
-- Supported trend identification and business decision-making.  
+- Assisted in generating business reports and performing preliminary data analysis.  
+- Supported project coordination and task tracking using JIRA and Excel.  
 
 ---
 
-### 🧠 Projects
-**Exploring Metadata in Visual Question Answering (2024)**  
-- Led a VQA project using the PubMedCLIP model with medical metadata integration.  
-- Improved diagnostic accuracy through multimodal learning and metadata alignment.  
-
-**Theft Detection using Machine Learning (2022)**  
-- Built a theft detection system with CNNs and OpenCV achieving 90% accuracy.  
-- Published in *Basic Trends in Informatics* (2022).  
-
----
-
-### 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/aryaniharika/)  
-
----
-
-⭐️ *“Data tells stories — I’m here to help translate them into action.”*
-
+## Projects
+**Visual Question Answering in the Medical Domain (2024)**  
+- Le
