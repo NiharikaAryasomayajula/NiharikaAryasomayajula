@@ -29,4 +29,14 @@ I am a recent Master's graduate in **Data Science and Innovation** from UTS, Syd
 
 ## Projects
 **Visual Question Answering in the Medical Domain (2024)**  
-- Le
+- Led a team using the PubMed CLIP model with metadata integration (EHRs, clinical notes) to improve model accuracy.  
+
+**Theft Detection using Machine Learning (2022)**  
+- Developed a theft detection system with CNN and OpenCV achieving 90% accuracy.  
+- Published in *Basic Trends in Informatics*.  
+
+---
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/aryaniharika/)
+
