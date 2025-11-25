@@ -28,12 +28,16 @@ I am a recent Master's graduate in **Data Science and Innovation** from UTS, Syd
 ---
 
 ## Projects
+**BotHire: AI-Powered Scam Job Detection (2025)**
+- Created BotHire, an AI tool that spots fraudulent job ads by combining NLP with structured job data. The model achieved 80% accuracy and 0.75 F1-score, while a Flask backend and React chatbot made it easy for users to interact with in real time. Focused on building a solution that is fair, transparent, and practical for everyday job seekers.
+
 **Visual Question Answering in the Medical Domain (2024)**  
 - Led a team using the PubMed CLIP model with metadata integration (EHRs, clinical notes) to improve model accuracy.  
 
 **Theft Detection using Machine Learning (2022)**  
 - Developed a theft detection system with CNN and OpenCV achieving 90% accuracy.  
-- Published in *Basic Trends in Informatics*.  
+- Published in *Basic Trends in Informatics*.
+   
 
 ---
 
