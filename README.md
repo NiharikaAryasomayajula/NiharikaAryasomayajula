@@ -1,46 +1,43 @@
-# Niharika Aryasomayajula
+# Hi, I'm Niharika 👋
 
-I am a recent Master's graduate in **Data Science and Innovation** from UTS, Sydney, seeking opportunities to apply my skills in **Machine Learning, Data Analytics, and Data Visualization**. I enjoy turning complex datasets into actionable insights and contributing to real-world projects.
+**Data Engineer | ETL Developer | Python · SQL · PostgreSQL · AWS**
 
----
-
-## Skills & Tools
-- **Programming & Libraries:** Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Concepts:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Predictive Modeling, Statistical Analysis  
-- **Other Tools:** JIRA, Excel, Notion, SAP ABAP, Provenir  
+I build data pipelines that are reliable enough to actually use in production — clean ingestion, structured storage, and validated outputs that downstream teams can trust.  
+Currently at **NSW Government (Service NSW)** · Based in **Sydney, NSW** · Full working rights (485 Visa, valid until 2028)
 
 ---
 
-## Work Experience
-**Policy Analyst Intern — LoanOptions.ai (Feb 2025 - May 2025)**  
-- Implemented decision logic in Provenir to automate loan approvals.  
-- Assisted in improving loan matching processes and collaborated with cross-functional teams.  
+## 🛠 Tech Stack
 
-**Associate Analyst — Deloitte (Dec 2022 - Jun 2023)**  
-- Developed backend solutions using SAP ABAP and maintained technical documentation.  
-- Supported report generation, automation, and troubleshooting tasks.  
-
-**Data Analyst Intern — Aeglelink Solutions (Nov 2021 - Mar 2022)**  
-- Assisted in generating business reports and performing preliminary data analysis.  
-- Supported project coordination and task tracking using JIRA and Excel.  
+**Databases:** PostgreSQL · MySQL · Snowflake · Database design & normalisation  
+**ETL & Pipelines:** Python · Pandas · NumPy · REST APIs · JSON · Workflow automation  
+**Cloud:** AWS (EC2, S3) · Snowflake · Azure basics  
+**ML / AI:** Scikit-learn · TensorFlow · PyTorch · Hugging Face Transformers · NLP  
+**Platforms:** Databricks · Streamlit · Flask · Provenir · Tableau · Excel · JIRA
 
 ---
 
-## Projects
-**BotHire: AI-Powered Scam Job Detection (2025)**
-- Created BotHire, an AI tool that spots fraudulent job ads by combining NLP with structured job data. The model achieved 80% accuracy and 0.75 F1-score, while a Flask backend and React chatbot made it easy for users to interact with in real time. Focused on building a solution that is fair, transparent, and practical for everyday job seekers.
+## 📌 Featured Projects
 
-**Visual Question Answering in the Medical Domain (2024)**  
-- Led a team using the PubMed CLIP model with metadata integration (EHRs, clinical notes) to improve model accuracy.  
+### 🤖 [BotHire — AI-Powered Scam Job Detection](https://github.com/NiharikaAryasomayajula/Bot-Hire)
+NLP + structured data model to detect fraudulent job listings. Achieved **80% accuracy and 0.75 F1-score**. Flask backend + React chatbot frontend for real-time user interaction.  
+`Python` `NLP` `Scikit-learn` `Flask` `React` `Structured + Unstructured Data`
 
-**Theft Detection using Machine Learning (2022)**  
-- Developed a theft detection system with CNN and OpenCV achieving 90% accuracy.  
-- Published in *Basic Trends in Informatics*.
-   
+### 📊 [NSW Licence Analytics Dashboard](https://github.com/NiharikaAryasomayajula/nsw-licence-dashboard)
+End-to-end analytics pipeline on NSW Driver Licence data. Python data processing feeding a Tableau Public dashboard for exploratory and trend analysis.  
+`Python` `Pandas` `Tableau Public` `Data Analysis` `Government Data`
+
+### 🏥 [Medical VQA — Metadata Analysis](https://github.com/NiharikaAryasomayajula/medical-vqa-metadata)
+Dual-schema PostgreSQL database + modular Python ETL pipeline for large-scale clinical datasets (EHR + clinical notes). Integrated with PyTorch and Hugging Face transformer pipelines for multimodal classification.  
+`PostgreSQL` `Python` `ETL` `Hugging Face` `PyTorch` `Feature Engineering`
+
+### 🔍 [Theft Detection System — Computer Vision](https://github.com/NiharikaAryasomayajula/theft-detection-cv)
+CNN-based theft detection achieving **90% accuracy**. Real-time image + motion sensor ingestion via REST APIs, PostgreSQL storage with optimised indexing, automated alert system.  
+📄 **Published in Basic Trends in Informatics (2022)**  
+`PostgreSQL` `Python` `OpenCV` `CNN` `REST APIs` `Real-time Pipeline`
 
 ---
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/aryaniharika/)
-
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryaniharika-blue?logo=linkedin)](https://www.linkedin.com/in/aryaniharika)
+[![Email](https://img.shields.io/badge/Email-aryaniharika0272%40gmail.com-red?logo=gmail)](mailto:aryaniharika0272@gmail.com)
